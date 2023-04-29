@@ -1,16 +1,19 @@
 # currency_convertor_flutter_app
 
-A new Flutter project.
 
-## Getting Started
+## About
 
-This project is a starting point for a Flutter application.
+   - This is a simple app for Currency Convertor view using api and MVC pattern.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Main features are as follows:
+    - You can convert any currency which you want.
+    - Light and Dark Theme.
+    - You can also use android and iOS.
+    - You can change app platform(Andorid and iOS) by one simple button. 
+   
+## App Gif:-
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/121868551/235287313-e3dfbdee-5dd6-491d-b1ad-f7cb9c1f251a.mp4
+
